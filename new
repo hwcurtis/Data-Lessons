@@ -1,0 +1,6 @@
+def func(lst):
+lst[0]=100
+
+new_list = [1, 2, 3, ]
+func(new_lst)
+print(new_lst)
